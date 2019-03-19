@@ -1,0 +1,3 @@
+com/yirong/hotfixtest/BaseActivity.class
+com/yirong/hotfixtest/MainActivity.class
+com/yirong/hotfixtest/BaseApplication.class
